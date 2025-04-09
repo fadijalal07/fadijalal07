@@ -18,4 +18,4 @@ Currently working on a **OP Factions Server** and always open to commissions and
 - Discord: **fadijalal**
 
 ## 📊 GitHub Stats
-![Fadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadijalal077&show_icons=true&theme=tokyonight)
+![Fadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadijalal07&show_icons=true&theme=tokyonight)
