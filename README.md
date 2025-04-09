@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Fadi 👋
 
-<!--
-**fadijalal07/fadijalal07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+I'm a PHP and PocketMine developer passionate about building fun and functional Minecraft server experiences!  
+Currently working on a **OP Factions Server** and always open to commissions and collabs.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- 💡 PocketMine Plugin Development
+- 🐘 PHP Backend Systems
+- 🔧 Server Management & Game Mechanics
+- 🗃️ Inventory, Economy, Factions, Events, and more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Factions Server (WIP)** – A unique take on OP Factions with new twists and systems
+- **Commission Work** – Plugins, custom systems, bug fixes, and more
+
+## 📫 Reach Out
+- Discord: **fadijalal**
+
+## 📊 GitHub Stats
+![Fadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadijalal077&show_icons=true&theme=tokyonight)
